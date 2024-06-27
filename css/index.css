@@ -1,0 +1,11 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+.cardTitle {
+  font-size: 4em;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.numeroList {
+  font-size: 1em;
+}
