@@ -12,7 +12,6 @@ body {
 @media (max-width: 1000px) {
   .cardTitle {
     font-size: 2em;
-    font-family: "Courier New", Courier, monospace;
   }
 
   .numeroList {
